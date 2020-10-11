@@ -1,0 +1,2 @@
+*(pulo + 2); // Valor do terceiro elemento do vetor pulo
+pulo + 2;   // Endereco do terceiro elemento do vetor pulo
