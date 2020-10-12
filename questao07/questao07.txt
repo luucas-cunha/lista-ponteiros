@@ -1,0 +1,2 @@
+p = mat + 1; //Expressao valida. A variavel p, que eh do tipo ponteiro para int, recebera o endereco de memoria do segundo elemento do vetor mat
+x = (*mat)++; //Expressao valida. A variavel x, que eh do tipo int, recebera o valor do primeiro elemento do vetor mat com um pos-incremento de 1
